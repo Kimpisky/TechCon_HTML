@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(66, 59, 51, 0.493);
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:visited{
+    color: rgb(0, 36, 77);
+}
+a:hover{
+    color: rgba(77, 47, 17, 0.932);
+}
